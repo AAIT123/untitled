@@ -1,0 +1,14 @@
+# ninja log v5
+12	342	7360784894553978	CMakeFiles/untitled.dir/Conversiones.cpp.obj	d638b52dd9814aac
+18	460	7360784897127086	CMakeFiles/untitled.dir/Fechas.cpp.obj	47618025439967c5
+460	657	7360784898999479	CMakeFiles/untitled.dir/Caracteres.cpp.obj	89d8622b71721a01
+658	841	7360784900767349	CMakeFiles/untitled.dir/Nutricion.cpp.obj	901124e9fbb01304
+343	1057	7360784903061201	CMakeFiles/untitled.dir/Mate.cpp.obj	249feb486d2aa26f
+5	1292	7360784905285250	CMakeFiles/untitled.dir/main.cpp.obj	3596fe61f08dc1ed
+1294	1486	7360784907339748	untitled.exe	fa2952c47a6cd46f
+9	911	7361154511490073	CMakeFiles/untitled.dir/main.cpp.obj	3596fe61f08dc1ed
+913	1078	7361154513105209	untitled.exe	fa2952c47a6cd46f
+13	2046	7361155923652625	CMakeFiles/untitled.dir/Mate.cpp.obj	249feb486d2aa26f
+2047	2366	7361155927262957	untitled.exe	fa2952c47a6cd46f
+26	606	7361156008411542	CMakeFiles/untitled.dir/Mate.cpp.obj	249feb486d2aa26f
+607	1263	7361156015103624	untitled.exe	fa2952c47a6cd46f
